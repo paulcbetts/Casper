@@ -110,13 +110,13 @@ h4, h5, h6 {
     text-rendering: optimizeLegibility;
     line-height: 1;
     margin-top: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
 }
 
 h1 {
     font-size: 5rem;
     line-height: 1.2em;
-    letter-spacing: -2px;
     text-indent: -3px;
 }
 
@@ -450,7 +450,8 @@ table.plain tbody > tr:nth-child(odd) > th {
 .post-meta {
     display: inline-block;
     margin: 0 0 5px 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
     font-size: 1.5rem;
     color: #9EABB3;
 }
@@ -609,7 +610,8 @@ table.plain tbody > tr:nth-child(odd) > th {
     width: 80%;
     max-width: 700px;
     margin: 4rem auto;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
     font-size: 1.3rem;
     color: #9EABB3;
     text-align: center;
@@ -659,7 +661,8 @@ table.plain tbody > tr:nth-child(odd) > th {
     margin: 8rem 0 0 0;
     padding: 4rem 0;
     border-top: #EBF2F6 1px solid;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
     font-size: 1.3rem;
     line-height: 1.7em;
     color: #BBC7CC;
